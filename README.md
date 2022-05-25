@@ -1,5 +1,5 @@
 
-![WhatsApp Image 2022-05-25 at 12 23 49 PM](https://user-images.githubusercontent.com/86012703/170217802-2ab9d2e4-883a-4d9d-9977-2454a3c4fbac.jpeg)
+
 
 
 ### Hi there 👋, I'm Md. Habibur Rahman Noyon
