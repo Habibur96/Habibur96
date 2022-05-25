@@ -1,5 +1,3 @@
-![WhatsApp Image 2022-05-25 at 12 23 49 PM](https://user-images.githubusercontent.com/86012703/170218202-f7d2b31e-0e45-4000-a8f2-4ff647e0b39e.jpeg)
-
 
 
 
