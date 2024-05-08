@@ -1,7 +1,7 @@
 
 
 
-### Hi there 👋, I'm Md. Habibur Rahman Noyon
+### Hi there 👋, I'm Md. Habibur Rahman Nayan
 #### I am GitHub Readme Generator's creator
 
 
