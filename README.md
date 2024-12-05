@@ -6,7 +6,7 @@
 
 
 
-Skills: C/C++/Java/Html/CSS/Bootstrap/Tailwind/Js/React
+Skills: Tailwind CSS, TypeScript, React.js, Redux, Next.js, Node.js, Express.js, Mongoose, MongoDB, PostgreSQL
 
 - 🔭 I’m currently working on this page. 
 - 📫 How to reach me: https://www.facebook.com/habiburrahman.nayan.58/ 
